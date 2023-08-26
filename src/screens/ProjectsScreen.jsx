@@ -43,7 +43,7 @@ const ProjectsScreen = () => {
 
       <p className="mt-10 mb-10 text-center">
         This is an exhibition of the Vatise portfolio. Get your project on this
-        awesome list !!
+        awesome gallery !!
       </p>
 
       {/**Projects */}
