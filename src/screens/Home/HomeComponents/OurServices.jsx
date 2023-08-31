@@ -20,8 +20,8 @@ const OurServices = () => {
         <p>
           We provide cost effective, world-class serices and equipment to
           enhance the development of Kenya's infrastructure.
-          Vatise Enterprises deliver a wide range of services within water
-          treatment solutions management, civil engineering, earthworks,
+          Vatise Enterprises delivers a wide range of services within water
+          treatment, civil engineering, earthworks,
           building and road construction throughout East Africa.
         </p>
         <Link

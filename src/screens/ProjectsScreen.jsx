@@ -82,16 +82,8 @@ const ProjectsScreen = () => {
           />
           {/**Row 3 */}
           <Project
-            title="Project 7"
-            subtitle="This is another home construction fully planned, designed and managed with Vatise Company till completion."
-          />
-          <Project
             title="Structural design"
             subtitle="Fully complete home construction planned, designed and managed with Vatise."
-          />
-          <Project
-            title="Project 9"
-            subtitle="This is a mansion design for a real esate customer."
           />
         </motion.div>
       </div>

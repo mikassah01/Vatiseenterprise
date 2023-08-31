@@ -32,11 +32,10 @@ const AboutUs = () => {
         <h1 className="font-bold md:text-4xl text-3xl mb-4">Who We Are</h1>
         <p>
           Vatise Enterprises is private limited company providing efficient and
-          quality work in general supplies and general works
-          construction services. We take on the role of the main contractor for
-          small-to-medium size projects and offer project management services
-          to coordinate specialist trades for commercial projects in different
-          disciplines.
+          quality work in general supplies and construction services. We take on
+          the role of the main contractor for small-to-medium size projects and
+          offer project management services to coordinate specialist trades for
+          commercial projects in different disciplines.
         </p>
         <Link
           to="/about"

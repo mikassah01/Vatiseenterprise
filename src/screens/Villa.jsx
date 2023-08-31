@@ -34,9 +34,9 @@ const Villa = () => {
         <ImageCard
           source={"/images/villa1pic1.jpg"}
           type={"Modern Villa"}
-          bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
+          bedrooms={6}
+          squareArea={"20m x 30m"}
+          size={"270"}
           other={"gym"}
         />
 
@@ -45,9 +45,9 @@ const Villa = () => {
         <ImageCard
           source={"/images/villa1pic2.jpg"}
           type={"Modern Villa"}
-          bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
+          bedrooms={6}
+          squareArea={"20m x 30m"}
+          size={"270"}
           other={"pool"}
         />
       </motion.div>
@@ -68,19 +68,19 @@ const Villa = () => {
 
         <ImageCard
           source={"/images/villa2pic1.jpg"}
-          type={"Modern Villa"}
+          type={"One Storey Villa"}
           bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
+          squareArea={"30m x 50m"}
+          size={"300"}
           other={"pool"}
         />
 
         <ImageCard
           source={"/images/villa2pic2.jpg"}
-          type={"Modern Villa"}
+          type={"One Storey Villa"}
           bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
+          squareArea={"30m x 50m"}
+          size={"300"}
           other={"pool"}
         />
       </motion.div>
@@ -101,10 +101,9 @@ const Villa = () => {
         <ImageCard
           source={"/images/villa3pic1.jpg"}
           type={"Wooden Villa"}
-          bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
-          other={"pool"}
+          bedrooms={3}
+          squareArea={"26m x 30m"}
+          size={"280"}
         />
 
         <VideoCard source={"/videos/villa3.mp4"} />
@@ -112,10 +111,9 @@ const Villa = () => {
         <ImageCard
           source={"/images/villa3pic2.jpg"}
           type={"Wooden Villa"}
-          bedrooms={4}
-          squareArea={"100m"}
-          size={"100"}
-          other={"pool"}
+          bedrooms={3}
+          squareArea={"26m x 30m"}
+          size={"280"}
         />
       </motion.div>
     </div>
